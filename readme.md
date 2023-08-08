@@ -1,4 +1,4 @@
-## Music Player
+# Quran Player
 
 Create beautiful UI to play quran stored in the "music folder" using the HTML5 audio API
 
